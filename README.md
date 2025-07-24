@@ -1,5 +1,6 @@
 # -SMART-BILLING-SYSTEM-
 Mini Store Billing System (Python)
+
 This project is a console-based billing system developed in Python, designed to simulate a simple shopping experience at a mini store. It allows customers to select products, apply discounts, calculate GST, and generate the final bill.
 
 Key Features
@@ -23,18 +24,20 @@ Chocolate Discount for bulk purchase (more than 5 chocolates)
 ✔ Final Bill Summary – Displays all details, including discounts, delivery charges, and total payable amount.
 
 
-Technologies Used
-Python – Core programming language
+Technologies Used:-
 
-Match-Case Statements – For handling menu options
+*Python – Core programming language
 
-Conditional Logic – To apply discounts and calculate final price
+*Match-Case Statements – For handling menu options
 
-Learning Outcomes
-This project is ideal for beginners to learn:
+*Conditional Logic – To apply discounts and calculate final price
 
-How to work with conditional statements and loops in Python
+Learning Outcomes:-
 
-Billing logic implementation for real-world scenarios
+*This project is ideal for beginners to learn:
 
-Basic financial calculations (discount, GST, etc.
+*How to work with conditional statements and loops in Python
+
+*Billing logic implementation for real-world scenarios
+
+*Basic financial calculations (discount, GST, etc.)
